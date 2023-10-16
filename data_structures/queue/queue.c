@@ -12,6 +12,7 @@ int count;
 int main(int argc, char const *argv[])
 {
     create();
+    // Adding the value 5
     enque(5);
 
     return 0;
